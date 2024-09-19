@@ -1,7 +1,12 @@
 import { useState } from "react";
+import { Header } from "./Components/Header";
 
 function App() {
-  return <></>;
+  return (
+    <>
+      <Header />
+    </>
+  );
 }
 
 export default App;
