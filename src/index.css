@@ -52,6 +52,7 @@ body{
     cursor: pointer;
 }
 
-.meme > img{   
-    padding: 50px;    
+.meme-image{   
+    max-width: 100%;
+    padding: 50px;
 }
