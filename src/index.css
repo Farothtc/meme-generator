@@ -51,3 +51,7 @@ body{
     border: none;
     cursor: pointer;
 }
+
+.meme > img{   
+    padding: 50px;    
+}
